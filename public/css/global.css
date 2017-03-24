@@ -48,27 +48,13 @@ header a:active {
     font-size: 50px;
 }
 
-#letsChat {
-    margin-top: 30px;
-    font-family: 'Prata', serif;
-    letter-spacing: 2px;
-}
-
-#aboutHead {
-    font-family: 'Prata', serif;
-    font-size: 45px;
-    color: #D0ADA7;
-}
-
-.contactInfo {
-    font-family: 'Raleway', sans-serif;
-}
-/*update glyphicon size*/
-
 main i {
     color: #D0ADA7;
     font-size: 25px;
 }
+
+
+/*portfolio*/
 
 .websiteWindow {
     margin-top: 35px;
@@ -87,7 +73,28 @@ main i {
     font-weight: bold;
 }
 
+/*about */
+
+#aboutHead {
+    font-family: 'Prata', serif;
+    font-size: 45px;
+    color: #D0ADA7;
+}
+
 #aboutInfo {
     color: black;
     font-family: 'Raleway', sans-serif;
 }
+
+/*contact*/
+
+#letsChat {
+    margin-top: 30px;
+    font-family: 'Prata', serif;
+    letter-spacing: 2px;
+}
+
+.contactInfo {
+    font-family: 'Raleway', sans-serif;
+}
+/*update glyphicon size*/

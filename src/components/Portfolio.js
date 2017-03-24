@@ -1,4 +1,5 @@
 import React from 'react'
+import Project from './Project.js'
 
 const Portfolio = () => <div>
     <div className="row">
@@ -73,6 +74,11 @@ const Portfolio = () => <div>
             <p className="projectDesc">Green juice iceland bitters, lo-fi swag forage leggings chambray lyft readymade direct trade health goth. Viral church-key live-edge, craft beer mixtape banjo selfies marfa waistcoat tacos cornhole.</p>
         </div>
     </div>
+
+    <Project title="Todo Application" screenshot="" html="devicon-html5-plain-wordmark" css="devicon-css3-plain-wordmark" bootstrap="devicon-bootstrap-plain-wordmark" js="devicon-javascript-plain" react="devicon-react-original-wordmark" url="" />
+
+    <Project title="2:Space" screenshot="../img/2space.png" html= "devicon-html5-plain-wordmark" css="devicon-css3-plain-wordmark" bootstrap="devicon-bootstrap-plain-wordmark" js="devicon-javascript-plain" jq="devicon-jquery-plain-wordmark" url=" https://sophiakhan.github.io/flight-checkout/" />
+     
 </div>
 
 export default Portfolio
