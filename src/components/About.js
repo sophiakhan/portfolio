@@ -5,7 +5,7 @@ const About = () => <div>
     <div className="col-sm-7">
         <div className="text-center"><img src="../img/sk.jpg" alt="Sophia Khan" /></div>
     </div>
-    <div className="col-sm-5">
+    <div className="col-sm-5 about">
         <h1 id="aboutHead">Using code to build clean and creative websites.</h1> 
         <p id="aboutInfo">
             Pug umami semiotics hashtag +1 truffaut banjo dolore four loko etsy. Meh odio fashion axe seitan franzen laborum voluptate commodo twee normcore portland duis. +1 cardigan velit do. Single-origin coffee organic vegan, deserunt lomo nostrud iPhone selvage celiac yuccie aliqua four loko.  Minim VHS jianbing, organic dolore keytar letterpress voluptate cold-pressed ramps proident meditation etsy.

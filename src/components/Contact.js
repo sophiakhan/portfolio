@@ -1,8 +1,9 @@
 import React from 'react'
 
 const Contact = () => <div>
-<div  className="text-center">
+<div  className="container text-center">
     <h1 id="letsChat">Let's chat</h1>
+    <img className="text-center img-responsive" width="500" src="../img/code4.jpg" /> <br />
      <h4><span className="glyphicon glyphicon-envelope contactInfo">  sophiaxkhan@gmail.com</span></h4> 
     <div>
         <br/>

@@ -30,7 +30,7 @@ class Project extends Component {
                         <li><i className={this.props.sass}></i></li>
                         <li><i className={this.props.postgres}></i></li>
                     </ul>
-                    <a className="projectLink" href={this.props.url}>Github</a> 
+                    <a className="projectLink" href={this.props.url} target="_blank">Github</a> 
                     <br/> <br/>
                     <p className="projectDesc"> Chartreuse magna green juice minim, XOXO kale chips sunt kombucha YOLO sapiente deep v commodo echo park. Exercitation fanny pack gluten-free quis, eiusmod iceland helvetica qui edison bulb ethical mixtape lo-fi. Chia disrupt narwhal helvetica sartorial unicorn.</p>
                 </div>

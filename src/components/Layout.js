@@ -11,7 +11,7 @@ const Layout = (props) => <div>
                     <ul className="list-inline pull-right">
                         <li><Link to="/">PORTFOLIO</Link></li>
                         <li><Link to="/about">ABOUT</Link></li>
-                        <li><a href="https://medium.com/@sophiaxkhan">BLOG</a></li>
+                        <li><a href="https://medium.com/@sophiaxkhan" target="_blank">BLOG</a></li>
                         <li><Link to="/contact">CONTACT</Link></li>
                     </ul>
                 </div>
