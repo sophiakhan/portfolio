@@ -25,14 +25,15 @@ class Project extends Component {
                         <li><i className={this.props.bootstrap}></i></li>
                         <li><i className={this.props.js}></i></li>
                         <li><i className={this.props.jq}></i></li>
-                        <li><i className={this.props.react}></i></li>
                         <li><i className={this.props.node}></i></li>
+                        <li><i className={this.props.react}></i></li>
                         <li><i className={this.props.sass}></i></li>
                         <li><i className={this.props.postgres}></i></li>
                     </ul>
                     <a className="projectLink" href={this.props.url} target="_blank">Github</a> 
-                    <br/> <br/>
-                    <p className="projectDesc"> Chartreuse magna green juice minim, XOXO kale chips sunt kombucha YOLO sapiente deep v commodo echo park. Exercitation fanny pack gluten-free quis, eiusmod iceland helvetica qui edison bulb ethical mixtape lo-fi. Chia disrupt narwhal helvetica sartorial unicorn.</p>
+                    <br/> <br/> <br/>
+                    <p className="projectDesc"><strong>Problem:</strong> {this.props.problem}</p>
+                    <p className="projectDesc"><strong>Process:</strong> {this.props.process}</p>
                 </div>
             </div>
         </div>
