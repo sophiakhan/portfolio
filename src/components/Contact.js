@@ -10,7 +10,7 @@ const Contact = () => <div>
         </div>
         <div className="col-sm-6">
         <br/><br/><br/>
-            <h4>Interested in exploring a project, discussing diversity in tech, or gushing over your favorite book? Feel free to reach out! I'd love to hear from you.</h4> <br/>
+            <h4>Interested in exploring a project, discussing diversity in tech, or chatting about your favorite book? Feel free to reach out! I'd love to hear from you.</h4> <br/>
             <h4><span className="glyphicon glyphicon-envelope contactInfo">  sophiaxkhan@gmail.com</span></h4> 
             <div>
                 <br/>
