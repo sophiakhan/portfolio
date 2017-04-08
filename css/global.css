@@ -1,0 +1,100 @@
+* {
+    box-sizing: border-box;
+}
+img {
+    width: 100%;
+}
+
+body {
+    background: #F6F1E3;
+    font-family: 'Raleway', sans-serif
+}
+
+header {
+    margin-top: 30px;
+}
+
+footer {
+    margin-top: 40px;
+    font-size: 8px;
+}
+
+header a,
+header a:link {
+    text-decoration: none;
+    color: black;
+    font-size: 15px;
+}
+
+header a:hover,
+header a:active {
+    text-decoration: none;
+    color: black;
+    background: #BE9E98;
+    padding: 3px;
+}
+
+#headerHighlight {
+    background: #D0ADA7;
+    padding: 25px 170px;
+    position: absolute;
+    top: 16px;
+    left: 32px;
+    z-index: -1;
+}
+
+#headerName {
+    font-family: 'Prata', serif;
+    font-size: 50px;
+}
+
+main i {
+    color: #D0ADA7;
+    font-size: 25px;
+}
+
+
+/*portfolio*/
+
+.websiteWindow {
+    margin-top: 35px;
+}
+
+.projectTitle {
+    margin-top: 35px;
+    font-family: 'Prata', serif;
+    font-size: 30px;
+}
+
+.projectLink {
+    text-decoration: none;
+    font-family: 'Raleway', sans-serif;
+    color: black;
+    font-weight: bold;
+}
+
+/*about */
+
+#aboutHead {
+    font-family: 'Prata', serif;
+    font-size: 45px;
+    color: #D0ADA7;
+}
+
+.aboutInfo {
+    color: black;
+    font-family: 'Raleway', sans-serif;
+}
+
+/*contact*/
+
+#letsChat {
+    margin-top: 30px;
+    font-family: 'Prata', serif;
+    letter-spacing: 2px;
+}
+
+.contactInfo {
+    font-family: 'Raleway', sans-serif;
+}
+/*update glyphicon size*/
