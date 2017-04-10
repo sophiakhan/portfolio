@@ -1,8 +1,8 @@
 {
   "name": "portfolio",
   "version": "0.1.0",
-  "private": true,
-  "homepage": "http://sophiakhan.github.io/portfolio",
+  "private": false,
+  "homepage": "https://sophiakhan.github.io/portfolio",
   "dependencies": {
     "react": "^15.4.2",
     "react-dom": "^15.4.2",
