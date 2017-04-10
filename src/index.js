@@ -1,6 +1,11 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import { browserHistory, Router, Route, IndexRoute } from 'react-router';
+import { Router, Route, IndexRoute } from 'react-router';
+import { createHistory, useBasename } from 'history';
+
+const browserHistory = useBasename(createHistory)({
+    basename: '/portfolio'
+});
 
 import Layout from './components/Layout'
 import Portfolio from './components/Portfolio'
