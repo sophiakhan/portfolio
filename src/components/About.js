@@ -3,7 +3,7 @@ import React from 'react'
 const About = () => <div>
 <div className="row">
     <div className="col-sm-7">
-        <div className="text-center"><img src="img/sk.jpg" alt="Sophia Khan" /></div>
+        <div className="text-center"><img src="img/sk-photo.jpeg" alt="Sophia Khan" /></div>
     </div>
     <div className="col-sm-5 about">
         <h1 id="aboutHead">Using code to build clean and creative websites.</h1> <br/>
@@ -14,15 +14,6 @@ const About = () => <div>
              <br/><br/>
              When I'm not coding, you can find me hiking, reading, or playing with my dog. I write about my reading life both on my <a href="www.mainandmaple.com">blog</a> and at <a href="http://bookriot.com/author/skhan/">BookRiot.com</a>.
         </p>
-
-        {/*<h4>I believe that websites can, and should, be built with a marketing strategy in mind.</h4>
-        <p className="aboutInfo">
-            Pulling from over four years of marketing experience, I build and design webpages that are both aesthetic and user-friendly. 
-        </p><br/>
-        <h4>I believe in community, and the impact technology can have on social justice issues.</h4>
-         <p className="aboutInfo">
-            
-        </p><br/>*/}
 
     </div>
 </div>
