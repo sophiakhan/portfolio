@@ -3,7 +3,7 @@ import React from 'react'
 const About = () => <div>
 <div className="row">
     <div className="col-sm-7">
-        <div className="text-center"><img src="../img/sk.jpg" alt="Sophia Khan" /></div>
+        <div className="text-center"><img src="img/sk.jpg" alt="Sophia Khan" /></div>
     </div>
     <div className="col-sm-5 about">
         <h1 id="aboutHead">Using code to build clean and creative websites.</h1> <br/>

@@ -6,7 +6,7 @@ const Contact = () => <div>
     <br />
     <div className="row">
         <div className="col-sm-6">
-            <img className="text-center img-responsive" width="500" src="../img/code4.jpg" /> 
+            <img className="text-center img-responsive" width="500" src="img/code4.jpg" /> 
         </div>
         <div className="col-sm-6">
         <br/><br/><br/>
