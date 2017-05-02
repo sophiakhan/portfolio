@@ -10,7 +10,7 @@ const About = () => <div>
         <h3><strong>Design-minded front-end engineering.</strong></h3> <br/>
 
         <p>
-             My name is Sophie. I believe that websites can, and should, be build with marketing strategy in mind. As a front-end engineer, I aim to create sites that are beautiful, clear, and user-friendly. 
+             My name is Sophie. I believe that websites can, and should, be built with marketing strategy in mind. As a front-end engineer, I aim to create sites that are beautiful, clear, and user-friendly. 
              <br/><br/>
              When I'm not coding, you can find me hiking, reading, or playing with my dog. I write about my reading life both on my <a href="www.mainandmaple.com">blog</a> and at <a href="http://bookriot.com/author/skhan/">BookRiot.com</a>.
         </p>
