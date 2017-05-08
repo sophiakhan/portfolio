@@ -15,5 +15,3 @@ const Portfolio = () => <div>
 </div>
                                                       
 export default Portfolio
-
-//TODO : determine which to do repo to use. 
